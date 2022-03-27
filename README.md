@@ -1,10 +1,10 @@
- ###_**Hello there**_
+ ### _**Hello there**_
 
 - 👋 Hi, I’m @binaduwal
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate Web Development Projects...
+- 📫 How to reach me ...[linkdin](https://www.linkedin.com/in/bina-duwal-9b2682235/)
 
 <!---
 binaduwal/binaduwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
