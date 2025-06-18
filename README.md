@@ -29,7 +29,7 @@
 <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
    
    <img
-     src="https://skillicons.dev/icons?i=nextjs,nodejs,expressjs,dotnet"
+     src="https://skillicons.dev/icons?i=nodejs,expressjs,python,dotnet,java"
    />
 </div>
 
@@ -38,7 +38,7 @@
 <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
    
    <img
-     src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,mysql"
+     src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"
    />
 </div>
 
@@ -46,9 +46,11 @@
 
 <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
     <img
-        src="https://skillicons.dev/icons?i=linux,postman,git,vscode,figma"
+        src="https://skillicons.dev/icons?i=selenium,linux,postman,git,vscode,figma"
       />
 </div>
+
+
 
 <h2>💻 GitHub Status</h2>
 <p align="center">
